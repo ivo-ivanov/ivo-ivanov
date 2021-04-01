@@ -3,7 +3,7 @@ Dad. WordPress Developer &amp; UI Designer.</h2>
 
 <p>Plain and simple - I love design.<br>I focus on user experience, simplicity and accessibility.</p>
 <p>I have been using Adobe Photoshop since version 5 and coding my own designs since the one pixel spacer gif era.</p>
-<p>I have almost 13 years experience in Word development, UI design  and branding.</p>
+<p>I have almost 13 years experience in WordPress development, UI design and branding.</p>
 <p>I'm passionate about creating custom, responsive WordPress themes from scratch.</p>
 
 <!---
