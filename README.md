@@ -1,5 +1,5 @@
-<h2>👋 Hi, I’m Ivo Ivanov.<br>
-Dad. WordPress Developer &amp; UI Designer.</h2>
+<h1>👋 Hi, I’m Ivo Ivanov.</h1>
+<h3>Dad. WordPress Developer &amp; UI Designer.</h3>
 
 [![webzino](https://raw.githubusercontent.com/ivo-ivanov/stuff/82390cdc72c0c68c9d873aa014aabd5f6b8df8bd/facebook-page-cover.jpg)](https://www.webzino.com)
 
