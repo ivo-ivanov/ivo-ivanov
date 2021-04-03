@@ -15,6 +15,11 @@
 
 
 
+## WordPress Development Workflow
+
+I develop locally. When it comes to creating an offline WordPress environments I tend to use Local by @<a href="https://github.com/getflywheel">Flywheel</a>. It is one of the most intuitive and powerful tools for the job and allows me to spin fast WordPress installations in containers. Local offers root SSH access, WP-CLI, Database managment, mailcatcher, NGINX and the ability to hot-swap PHP versions. So you can tinker around if your heart desires!
+
+
 
 
 
