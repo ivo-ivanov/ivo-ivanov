@@ -33,7 +33,7 @@ I use Gulp extensively to automate things like:
 
 I like everything to be version controled, so every WP theme is synchronized with GitHub repos though, which is nice for working with other people, tracking issues, using integrations, etc.
 
-Cross browser testing is somthing that I take very seriously I for this process I use the powerfull online service <a href="https://lambdatest.com">LambdaTest</a>. It allows me to perform live interactive and automated CBT on real browsers and OS.
+Cross browser testing is something that I take very seriously I for this process I use the powerfull online service <a href="https://lambdatest.com">LambdaTest</a>. It allows me to perform live interactive and automated CBT on real browsers and OS.
 
 My choise of CD/CI is <a href="https://buddy.works/">Buddy.works</a> When the master branch is pushed to on GitHub, Buddy picks up on that change and runs a pipeline of stuff.
 That goes like:
